@@ -13,7 +13,7 @@
 - Learned Node.js and Express.js in 2020 because of client needs(Hi David)
 - Learned Typescript, React.js, Next.js because of client needs(Hi Mihai), DS and Algo in 2022
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toto1384)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toto1384)
 
 ![](https://github-readme-stats.vercel.app/api?username=toto1384&hide=stars,prs)
 <!--
