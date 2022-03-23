@@ -10,8 +10,10 @@
 - Released my first app on the Play Store in 2018
 - Learned Flutter in 2019
 - Landed my first freelance project in 2020
-- Learned Node.js and Express.js in 2020 because of client needs(Hi David)
-- Learned Typescript, React.js, Next.js because of client needs(Hi Mihai), DS and Algo in 2022
+- Learned Node.js, Express.js, Linux in 2020 because of client needs(Hi David)
+- Learned html, css, js in 2021
+- Learned Typescript, React.js, Next.js, React Native, Monorepos, E2E testing, Tailwind because of client needs(Hi Mihai), in 2022
+- Learned DS and Algo in 2022
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toto1384)
 <!--
