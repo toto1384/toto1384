@@ -5,7 +5,7 @@
 - 🙃 I like emacs more than vim
 - ⚡ Fun fact: with every 30 days that you are living you get .1% closer to being put in a coffin and being burried
 
-###### 📦 I've decided to archive(you can still browse them though) any repo before 2020, because with only 2 years of experience under my belt, the code was not that great
+###### 📦 I've decided to archive(you can still browse them though) any repo before 2020, because the code was not that great back then
 
 #### My software development journey
 - Learned Java and Android SDK in 2017, this whole year was spent on learning
