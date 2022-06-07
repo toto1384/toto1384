@@ -14,9 +14,9 @@
 - Learned Flutter in 2019
 - Landed my first freelance project in 2020
 - Learned Node.js, AWS, Express.js, Mongodb Linux in 2020 because of client needs(Hi David)
-- Learned html, css, js in 2021
-- Learned Typescript, React.js, Next.js, React Native, Monorepos, E2E testing, Webmin, Tailwind because of client needs(Hi Mihai), in 2022
-- Learned basic data structures in 2022
+- Learned HTML & CSS in 2021
+- Learned Typescript, React.js, Next.js, React Native, Monorepos, Webmin, Tailwind because of client needs(Hi Mihai), in 2021 & 2022
+- Learned basic DS in 2022
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toto1384)
 <!--
