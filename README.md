@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/d9fc58a0-4af0-4bfa-99d8-8f074ec31c95.svg)](https://wakatime.com/@d9fc58a0-4af0-4bfa-99d8-8f074ec31c95)
 ### Your average VIM enjoyer
 
 - 🔭 I’m currently working on remaking [MyNextJob](mynextjob.ro)
@@ -17,6 +18,12 @@
 - Learned Typescript, React.js, Next.js, React Native, Tailwind, and other small frameworks/technologies/best practices because of client needs(Hi Mihai), in 2021 & 2022
 - Learned basic DS in 2022
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toto1384)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toto1384&show_icons=true&hide=prs)
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toto1384&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=toto1384" />
+</a>
 
-[![wakatime](https://wakatime.com/badge/user/d9fc58a0-4af0-4bfa-99d8-8f074ec31c95.svg)](https://wakatime.com/@d9fc58a0-4af0-4bfa-99d8-8f074ec31c95)
