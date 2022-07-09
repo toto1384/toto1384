@@ -20,10 +20,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toto1384&show_icons=true&hide=prs)
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toto1384&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=toto1384" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=toto1384" />
 
