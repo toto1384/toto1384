@@ -1,5 +1,4 @@
 [![wakatime](https://wakatime.com/badge/user/d9fc58a0-4af0-4bfa-99d8-8f074ec31c95.svg)](https://wakatime.com/@d9fc58a0-4af0-4bfa-99d8-8f074ec31c95)
-### Your average VIM enjoyer
 
 - 🔭 I’m currently working on remaking [MyNextJob](mynextjob.ro)
 - 🌱 I’m currently lerning how to be an expert in my stack
