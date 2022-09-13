@@ -14,7 +14,8 @@
 - Landed my first freelance project in 2020
 - Learned AWS and basic Linux commands in 2020 because of client needs(Hi David)
 - Learned HTML & CSS in 2021
-- Learned Typescript, React.js, Next.js, React Native, Tailwind, and other small frameworks/technologies/best practices because of client needs(Hi Mihai), in 2021 & 2022
+- Learned Typescript, React.js, Next.js, React Native, Tailwind, Dovecot, Postfix, and other small frameworks/technologies/best practices because of client needs(Hi Mihai), in 2021 & 2022
+- Learned TDD, CI/CD and some devops in 2022
 - Learned basic DS in 2022
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toto1384&show_icons=true&hide=prs)
