@@ -18,7 +18,7 @@
 - Learned TDD, CI/CD and some devops in 2022
 - Learned basic DS in 2022
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toto1384&show_icons=true&hide=prs)
+![](https://github-readme-stats.vercel.app/api?username=toto1384&show_icons=true&hide=prs)
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=toto1384" />
 
