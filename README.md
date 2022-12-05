@@ -1,7 +1,7 @@
 
 
 - 🔭 I’m currently working on remaking [MyNextJob](mynextjob.ro)
-- 🌱 I’m currently lerning how to be an expert in my stack
+- 🌱 I’m currently lerning devops & how to be an expert in my stack
 - ⚡ Fun fact: with every 30 days that you are living you get .1% closer to being put in a coffin and being burried
 
 ###### 📦 I've decided to archive(you can still browse them though) any repo before 2020, because the code was not that great back then
@@ -17,8 +17,4 @@
 - Learned Typescript, React.js, Next.js, React Native, Tailwind, Dovecot, Postfix, and other small frameworks/technologies/best practices because of client needs(Hi Mihai), in 2021 & 2022
 - Learned TDD, CI/CD and some devops in 2022
 - Learned basic DS in 2022
-
-![](https://github-readme-stats.vercel.app/api?username=toto1384&show_icons=true&hide=prs)
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=toto1384" />
 
