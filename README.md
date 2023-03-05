@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on remaking [MyNextJob](mynextjob.ro)
+- 🔭 I’m currently working on remaking [MyNextJob](https://www.mynextjob.ro)
 - 🌱 I’m currently lerning devops & how to be an expert in my stack
 - ⚡ Fun fact: with every 30 days that you are living you get .1% closer to being put in a coffin and being burried
 
