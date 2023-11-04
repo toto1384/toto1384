@@ -17,5 +17,5 @@
 - Learned Typescript, React.js, Next.js, React Native, Tailwind, Dovecot, Postfix, and other small frameworks/technologies/best practices because of client needs(Hi Mihai), in 2021 & 2022
 - Learned TDD, CI/CD, and some DevOps in 2022
 - Learned primary DS in 2022
-- Learned MongoDB aggregations and SEO in 2023
+- Learned MongoDB aggregations, Streams and SEO in 2023
 
