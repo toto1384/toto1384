@@ -1,7 +1,7 @@
 
 
-- 🔭 I’m currently working on remaking [MyNextJob](https://www.mynextjob.ro)
-- 🌱 I’m currently learning SEO and being effective
+- 🔭 I’m currently taking a break from coding
+- 🌱 I’m currently learning SEO and basic Entrepreneurship
 - ⚡ Fun fact: with every 30 days that you are living you get .1% closer to being put in a coffin and being buried
 
 ###### 📦 I've decided to archive(you can still browse them though) any repo before 2020, because the code was not that great back then
