@@ -18,4 +18,5 @@
 - Learned TDD, CI/CD, and some DevOps in 2022
 - Learned primary DS in 2022
 - Learned MongoDB aggregations, Streams and SEO in 2023
+- Took a break from Coding in Jan 2024 😬
 
