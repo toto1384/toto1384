@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently taking a break from coding
+- 🔭 I took a break from coding to focus on SEO in 2024
 - 🌱 I’m currently learning SEO and basic Entrepreneurship
 - ⚡ Fun fact: with every 30 days that you are living you get .1% closer to being put in a coffin and being buried
 
