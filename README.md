@@ -1,7 +1,5 @@
-
-
-- 🔭 I took a break from coding to focus on SEO in 2024
-- 🌱 I’m currently learning SEO and basic Entrepreneurship
+PS: I took a break from coding this year to focus on my soft skills.
+- 🌱 I’m currently learning Soft Skills like marketing myself, sales, entrepreneurship
 - ⚡ Fun fact: with every 30 days that you are living you get .1% closer to being put in a coffin and being buried
 
 ###### 📦 I've decided to archive(you can still browse them though) any repo before 2020, because the code was not that great back then
