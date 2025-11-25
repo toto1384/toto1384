@@ -6,7 +6,6 @@ PS: I took a break from coding this year to focus on my soft skills.
 
 #### My software development journey
 - Learned Java and Android SDK in 2017, this whole year was spent learning
-- Stopped being a lazy bastard in 2017
 - Released my first app on the Play Store in 2018
 - Learned Flutter, Javascript, Express.js, MongoDB in 2019
 - Landed my first freelance project in 2020
