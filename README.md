@@ -1,4 +1,4 @@
-- 🌱 I’m currently focusing on building and growing marketplace and Saas clients.
+- 🌱 I’m currently focusing on building and growing marketplaces and Saas platforms for my clients.
 
 
 #### My software development journey
