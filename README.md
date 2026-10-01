@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning to write code faster and Soft Skills like marketing, sales, and management.
+- 🌱 I’m currently focusing on building and growing marketplace and Saas clients.
 
 
 #### My software development journey
@@ -14,5 +14,5 @@
 - Learned MongoDB aggregations, Streams, and SEO in 2023
 - Took a break from Coding in Jan 2024
 - Transitioned from Next.js to Tanstack Start for speed and DX purposes in 2025
-- Stopped rolling my own email servers and auth for speed and DX purposes in 2025 
+- Stopped rolling my own email servers and auth for speed and DX purposes in 2025
 
